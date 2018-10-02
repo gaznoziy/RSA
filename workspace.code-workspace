@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "rsa-api\\rsa-api"
+		},
+		{
+			"path": "rsa-ui"
+		}
+	],
+	"settings": {}
+}
